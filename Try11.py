@@ -3,7 +3,7 @@
   
  ###---[ INFO AUTHOR GANS DIKIT ]---### 
  #----[ jangan di oprek, sayangi data hpmu ]-----# 
- author = 'Alamin khan' 
+ author = 'Alamin' 
  WHATSAPP = '01645842904' 
  faceb0ok = 'alamin khan' 
  notice = 'jika mau beli sc prem bagus wa aja' 
